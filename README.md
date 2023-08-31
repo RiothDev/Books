@@ -1,3 +1,3 @@
 # 💫 Introduction
-**🖥️ A project to get information about books from a MySQL database.**
+**🖥️ A project to get the area and perimeter of figures using polymorphism.**
 > ❗ This project is in Spanish
