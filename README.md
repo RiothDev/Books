@@ -1,3 +1,3 @@
 # 💫 Introduction
-**🖥️ A project to get the area and perimeter of figures using polymorphism.**
+**🖥️ A project to manage a library with connection to MySQL databases.**
 > ❗ This project is in Spanish
